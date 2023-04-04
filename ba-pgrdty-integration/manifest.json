@@ -1,0 +1,18 @@
+{
+  "name": "Sample Integration",
+  "version": "1.0.0",
+  "overview": "Short one-liner describing your integration",
+  "description": "Send flag data to space. Markdown-based description.",
+  "author": "Example Dot Com",
+  "supportEmail": "support@example.com",
+  "links": {
+    "site": "https://example.com",
+    "privacyPolicy": "https://example.com/privacy"
+  },
+  "categories": ["monitoring"],
+  "icons": {
+    "square": "assets/images/square.svg",
+    "horizontal": "assets/images/horizontal.svg"
+  },
+  "requiresOAuth": false
+}
